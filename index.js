@@ -7,7 +7,7 @@ for(var i=0; i<numOfDrums; i++){
 
         makeSound(buttonInnerHTML);
 
-        buttonAnimation(buttonInnerHTML);
+        buttonAnimation(buttonInnerHTML);d
     });
 }
 
