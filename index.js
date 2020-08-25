@@ -69,4 +69,4 @@ function buttonAnimation(currentKey){
   }, 100);
 }
 /*var audio = new Audio("sounds/tom-1.mp3");
-    audio.play(); */
+    audio.play(); Audio Object*/
