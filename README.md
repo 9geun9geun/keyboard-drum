@@ -6,4 +6,6 @@ Mainly created using Javascript event listener function.
 
 Play here: [Keyboard-Drum](https://9geun9geun.github.io/keyboard-drum/)
 
-![](drumkeyboard.jpg) 
+![](drumkeyboard.JPG)
+
+
